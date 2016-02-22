@@ -40,9 +40,9 @@ If you're just starting out, perhaps you can use this as an initial guide to wor
 
 # pycaribbean2016 en español
 
-Este es el código y la documentación (y tal vez más!) para mi charla PyCaribbean 2016 "Jupyter + pandas para un workflow ... (¿es el mismo en español, or es 'flujo de trabajo'?) de análisis de datos amigable para los principiantes intuitiva".
+Este es el código y la documentación (y tal vez más!) para mi charla PyCaribbean 2016 "Jupyter + pandas para un flujo de trabajo de análisis de datos intuitivo y amigable para principiantes".
 
-Estoy segura que esta escritura es imperfecta, y entonces si le gustaría cambiarla, ve los instrucciones en "Contribuyendo" bajo!
+Estoy segura que esta escritura es imperfecta. Si le gustaría cambiarla, vaya a las instrucciones en "Contribuyendo" mas abajo!
 
 ## Instalación
 
@@ -68,21 +68,21 @@ Un comentario: Git es confuso en todos los idiomas. (._.,)
 
 `Jupyter notebook`
 
-Es posible que se tenga que instalar más, pero es fácil con los mensajes de error de Python para ver lo que tiene que hacer.
+Es posible que se tenga que instalar algo más, pero es fácil ver lo que tiene que hacer con los mensajes de error de Python.
 
 ## Uso
 
-Si usted está empezando a cabo, tal vez usted puede utilizar esto como una guía inicial para trabajar con un conjunto de datos. Usted no debe tener miedo de copiar y pegar! Si desea modificar y utilizarlo como su propia presentación, usted debe sentirse libre de hacerlo.
+Si usted está empezando, tal vez usted pueda utilizar esto como una guía inicial para trabajar con un conjunto de datos. Usted no debe tener miedo de copiar y pegar! Si desea modificar y utilizarlo como su propia presentación, usted debe sentirse libre de hacerlo.
 
-En mi mundo ideal esto podría traducirse en cualquier idioma en que sería útil.
+En mi mundo ideal esto podría traducirse en cualquier idioma en que fuera útil.
 
 ## Contribuyendo
 
-1. Fork it!
-2. Cree su propia descriptiva llamado `branch`: `git checkout -b new-example-branch`
-3. `Commit` sus cambios: `git commit -am 'Add some feature'`
-4. `Push` to the branch: `git push origin new-example-branch`
-5. Presentar una pull request :D
+1. Haga un fork!
+2. Cree su propia rama(`branch`): `git checkout -b new-example-branch`
+3. Haga `Commit` de sus cambios: `git commit -am 'Add some feature'`
+4. `Push` hacia el branch: `git push origin new-example-branch`
+5. Presentar un pull request :D
 
 ## Licencia
 
