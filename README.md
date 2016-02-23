@@ -52,9 +52,9 @@ Estoy segura que esta escritura es imperfecta. Si le gustaría cambiarla, vaya a
 
 ### Entonces:
 
-Clonar este repo local.
+Clone este repositorio local.
 
-Si usted no sabe cómo hacer esto, es posible que le gustaría leer _Pro Git_ que tiene una traducción parcial en [español](https://git-scm.com/book/es/v1). 
+Si usted no sabe cómo hacer esto, probablemente le gustaría leer _Pro Git_, que tiene una traducción parcial en [español](https://git-scm.com/book/es/v1). 
 
 Un comentario: Git es confuso en todos los idiomas. (._.,)
 
@@ -78,11 +78,11 @@ En mi mundo ideal esto podría traducirse en cualquier idioma en que fuera útil
 
 ## Contribuyendo
 
-1. Haga un fork!
-2. Cree su propia rama(`branch`): `git checkout -b new-example-branch`
-3. Haga `Commit` de sus cambios: `git commit -am 'Add some feature'`
-4. `Push` hacia el branch: `git push origin new-example-branch`
-5. Presentar un pull request :D
+1. Haga un `fork`!
+2. Cree su propia rama(`branch`) nombrada de forma descriptiva: `git checkout -b new-example-branch`
+3. Remita(`commit`) sus cambios: `git commit -am 'Add some feature'`
+4. Realice un `Push` hacia el branch: `git push origin new-example-branch`
+5. Presentar un `pull request` :D
 
 ## Licencia
 
