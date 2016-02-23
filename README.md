@@ -81,7 +81,7 @@ En mi mundo ideal esto podría traducirse en cualquier idioma en que fuera útil
 1. Haga un `fork`!
 2. Cree su propia rama(`branch`) nombrada de forma descriptiva: `git checkout -b new-example-branch`
 3. Remita(`commit`) sus cambios: `git commit -am 'Add some feature'`
-4. Realice un `Push` hacia el branch: `git push origin new-example-branch`
+4. Realice un `Push` hacia la rama: `git push origin new-example-branch`
 5. Presentar un `pull request` :D
 
 ## Licencia
