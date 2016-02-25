@@ -17,9 +17,9 @@ Clone this repo locally.
 Then:
 
 ```
-  pip install jupyter
-  pip install pandas
-  pip install matplotlib
+pip install jupyter
+pip install pandas
+pip install matplotlib
 ```
 
 Finally:
@@ -72,9 +72,11 @@ Un comentario: Git es confuso en todos los idiomas. (._.,)
 
 ### Entonces:
 
-```pip install jupyter
+```
+pip install jupyter
 pip install pandas
-pip install matplotlib```
+pip install matplotlib
+```
 
 ### Finalmente:
 
