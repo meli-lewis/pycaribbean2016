@@ -16,9 +16,11 @@ Clone this repo locally.
 
 Then:
 
-```pip install jupyter
-pip install pandas
-pip install matplotlib```
+```
+  pip install jupyter
+  pip install pandas
+  pip install matplotlib
+```
 
 Finally:
 
