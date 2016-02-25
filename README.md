@@ -1,8 +1,10 @@
 # pycaribbean2016
 
+
 This is code and documentation (and perhaps more!) for my PyCaribbean 2016 talk "Jupyter + Pandas for an intuitive, beginner-friendly data analysis workflow"
 
 ## Installation
+
 
 First, ensure you have Python 3 installed:
 
@@ -14,19 +16,25 @@ Clone this repo locally.
 
 Then:
 
-`pip install jupyter`
-`pip install pandas`
-`pip install matplotlib`
+```pip install jupyter
+pip install pandas
+pip install matplotlib```
 
 Finally:
 
 `jupyter notebook`
 
+A browser window should open. You can then navigate to `pycaribbean.ipynb`.
+
+Press the "play" icon to step through the notebook, executing code as you go.
+
 ## Usage
+
 
 If you're just starting out, perhaps you can use this as an initial guide to working with a dataset. Do not be afraid to copy and paste! If you would like to modify and use it as your own presentation, you should feel free to do so.
 
 ## Contributing
+
 
 1. Fork it!
 2. Create your own descriptively-named branch: `git checkout -b new-example-branch`
@@ -36,9 +44,11 @@ If you're just starting out, perhaps you can use this as an initial guide to wor
 
 ## License
 
+
 [Unlicense](http://unlicense.org/)
 
 # pycaribbean2016 en español
+
 
 Este es el código y la documentación (y tal vez más!) para mi charla PyCaribbean 2016 "Jupyter + pandas para un flujo de trabajo de análisis de datos intuitivo y amigable para principiantes".
 
@@ -60,9 +70,9 @@ Un comentario: Git es confuso en todos los idiomas. (._.,)
 
 ### Entonces:
 
-`pip install jupyter`
-`pip install pandas`
-`pip install matplotlib`
+```pip install jupyter
+pip install pandas
+pip install matplotlib```
 
 ### Finalmente:
 
